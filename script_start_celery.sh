@@ -1,0 +1,1 @@
+celery -A msdat-python-api worker --loglevel=debug
