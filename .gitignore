@@ -31,6 +31,9 @@ staticfiles
 *.py[cod]
 *$py.class
 
+.output.txt
+
+
 # C extensions
 *.so
 
