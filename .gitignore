@@ -14,7 +14,8 @@ datacaches
 *.idea
 *.vscode
 __pycache__/
-
+.virtualenv/*
+/.virtualenv
 manage.py
 
 ### SETTINGS FILES###
